@@ -30,7 +30,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
 - [Aabraham James](https://seera.framer.website)
 - [Aabu Sayed](https://aabu-sayed-portfolio.vercel.app) [Software Engineer & Web Developer]
-- [Shubham Gupta](https://shubhamrdg.vercel.app)(https://www.shubhamrdg.me) [Mern Stack Devloper]
+- [Shubham Gupta](https://shubhamrdg.vercel.app) [Link](https://www.shubhamrdg.me) [Mern Stack Devloper]
 - [Aadarsh Rai](https://aadarshrai.vercel.app) [AI Engineer]
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
 - [Aaftab Vijapura](https://aaftab.is-a.dev)[Full Stack & Frontend Developer]
